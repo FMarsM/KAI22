@@ -1,0 +1,14 @@
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI2\bin\Debug\KAI2.exe.config
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI2\bin\Debug\KAI2.exe
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI2\bin\Debug\KAI2.pdb
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI2\obj\Debug\KAI2.csprojAssemblyReference.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI2\obj\Debug\KAI2.csproj.CoreCompileInputs.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI2\obj\Debug\KAI2.exe
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI2\obj\Debug\KAI2.pdb
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI22\KAI2\bin\Debug\KAI2.exe.config
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI22\KAI2\bin\Debug\KAI2.exe
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI22\KAI2\bin\Debug\KAI2.pdb
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI22\KAI2\obj\Debug\KAI2.csprojAssemblyReference.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI22\KAI2\obj\Debug\KAI2.csproj.CoreCompileInputs.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI22\KAI2\obj\Debug\KAI2.exe
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\KAI2\KAI22\KAI2\obj\Debug\KAI2.pdb
